@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aayush Agarwal, Post #0"
+title: "Post #0"
 date: 2021-11-25
 ---
 
