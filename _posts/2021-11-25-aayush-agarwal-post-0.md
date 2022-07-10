@@ -4,4 +4,6 @@ title: "Post #0"
 date: 2021-11-25
 ---
 
-Finally got around to putting up a personal page. 
+Prime Numbers
+
+1, 2, 3, 5, 7, 11, 13, 17, 19, ...
